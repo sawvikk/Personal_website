@@ -1,0 +1,86 @@
+*{margin:0; padding:0; box-sizing: border-box;}
+.first{
+    background-image: url(personal-Images/header-bg.png);
+    height:100vh;
+}
+.second{
+    background-image: url(personal-Images/footer-bg.png);
+    height:100vh;
+}
+.a{float:left;
+    width:40%;
+    margin:15vh; 
+    margin-top:25vh; padding:20px;
+    }
+.start{font-size: 50px; }
+.name{
+    font-weight: 900; font-size: 70px;
+    font-family: 'Send Flowers', cursive;
+    color:cornflowerblue;
+    /* border:1px red solid; */
+}
+.text{ color:grey; 
+   
+    font-family:'Courier New', Courier, monospace ; margin-top: 5vh; 
+text-align: justify;
+margin:1px;
+font-weight: 600;
+/* border:1px red solid; */
+}
+.t{
+   /* color:white; */
+    margin:20px 0px 0px 50px;
+    }
+.o,.oo{ color: white;
+    background: cornflowerblue;
+    border-radius: 5px;
+    text-decoration: none; 
+    /* color:white; */
+    
+    padding:10px; 
+}
+.oo{background:orange;}
+.b{ float:left; width:40%; }
+.b img{
+    height:60vh; margin-top:10vh; }
+
+
+.third p{color:rgb(0, 140, 255); text-align: center; font-size: 90px;
+    margin-bottom:90px;
+}
+    
+    .ab1{float:left; width: 27%; margin:20px 30px 0px 90px;
+    }
+    .ab2{float:left; width: 27%; margin:20px 30px 0px 30px;
+    }
+    .ab3{float:left; width: 27%; margin:20px 90px 0px 30px;  
+    }
+.third img{height:40vh;}
+.third{height:70vh;}
+.fourth{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align: center;
+    position: relative;
+    height:40vh;
+    margin-bottom: 50px;
+}
+.name1{margin-top:70px;font-size: 20px;}
+.dsg{color:grey; font-size: 13px; }
+.cmnt{position: absolute;
+      left:50%;
+transform: translate(-50%,-50%);
+margin-bottom:100px;
+ /* background-color: aqua; */
+/* } */
+}
+
+.msg{
+    margin:50px; background: rgb(255, 28, 134);
+    padding:100px;border-radius: 15px;
+    width:50%; margin-left:25%;
+    color:white; font-size: 30px;
+}
+.msg a{ text-decoration: none; color:white;
+}
+.f{color:grey;
+    margin:50px;
+    border:60px white solid;}
